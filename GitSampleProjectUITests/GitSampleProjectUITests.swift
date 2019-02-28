@@ -6,7 +6,6 @@
 //  Copyright © 2019 Rajesh Ghosh. All rights reserved.
 //
 
-
 import XCTest
 
 class GitSampleProjectUITests: XCTestCase {
